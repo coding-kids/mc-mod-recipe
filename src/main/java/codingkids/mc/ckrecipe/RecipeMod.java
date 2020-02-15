@@ -34,8 +34,6 @@ public class RecipeMod {
                 .setRegistryName("my_dust")
                 .setTranslationKey("ckrecipe.my_dust")
                 .setCreativeTab(CreativeTabs.MISC);
-        //GameRegistry.addSmelting(myDust, new ItemStack(myItem, 1), 1.5f);
-        //GameRegistry.addSmelting(myItem, new ItemStack(myDust, 2), 0.2f);
     }
 
     @EventHandler
