@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ckrecipe:my_dust",
+      "data": 0
+    },
+    {
+      "item": "ckrecipe:my_dust",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "ckrecipe:my_item",
+    "data": 0
+  }
+}
